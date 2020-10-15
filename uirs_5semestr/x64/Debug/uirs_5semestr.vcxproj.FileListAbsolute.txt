@@ -1,0 +1,2 @@
+C:\Users\Misha\Documents\cpp_projects\ucheba\uirs_5semestr\x64\Debug\uirs_5semestr.exe
+C:\Users\Misha\Documents\cpp_projects\ucheba\uirs_5semestr\x64\Debug\uirs_5semestr.pdb
